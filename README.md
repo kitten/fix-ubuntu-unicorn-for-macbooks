@@ -1,9 +1,7 @@
 # Fix Ubuntu 14.10 Utopic Unicorn for MacBook Pros
 
-**
-A script to automatically fix some annoying bugs and quirks when using Ubuntu
-14.10 on MBPs.
-**
+**A script to automatically fix some annoying bugs and quirks when using Ubuntu
+14.10 on MBPs.**
 
 It is a wizard / utility which presents you with different options to perform. It's features are:
 
