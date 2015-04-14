@@ -18,7 +18,7 @@ reboot=0
 lsb_release -c | grep utopic > /dev/null
 if [ "$?" = "1" ]
 then
-  echo "This script was designed to run on Ubuntu 14.04 Utpoic Unicorn!"
+  echo "This script was designed to run on Ubuntu 14.10 Utopic Unicorn!"
   echo "Do you wish to continue anyway?"
   while true; do
     read -p "" yn
